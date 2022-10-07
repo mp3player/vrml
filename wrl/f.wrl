@@ -1,0 +1,27 @@
+#VRML V utf
+#Wiselink
+Viewpoint
+{
+}
+DEF Flames Shape
+{
+    appearance Appearance 
+    {
+        texture  ImageTexture {  url  "xxxx.jpg" } 
+    } 
+    geometry IndexedFaceSet 
+    { 
+        solid FALSE 
+        ccw TRUE 
+        coord Coordinate 
+        { 
+            point [    ]
+        } 
+        texCoord TextureCoordinate 
+        { 
+            point [ ]
+        } 
+        coordIndex [ ]
+        texCoordIndex [ ]
+    } 
+} 
