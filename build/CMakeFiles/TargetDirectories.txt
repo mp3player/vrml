@@ -1,3 +1,0 @@
-/home/coder/project/c++/vrml/build/CMakeFiles/vrml.dir
-/home/coder/project/c++/vrml/build/CMakeFiles/edit_cache.dir
-/home/coder/project/c++/vrml/build/CMakeFiles/rebuild_cache.dir

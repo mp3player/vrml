@@ -15,7 +15,7 @@ DEF Flames Shape
         ccw TRUE 
         coord Coordinate 
         { 
-            point [    ]
+            point [ ]
         } 
         texCoord TextureCoordinate 
         { 
@@ -24,4 +24,4 @@ DEF Flames Shape
         coordIndex [ ]
         texCoordIndex [ ]
     } 
-} 
+}

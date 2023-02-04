@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-g++-11 -g -rdynamic CMakeFiles/vrml.dir/main.cc.o CMakeFiles/vrml.dir/ele.cpp.o CMakeFiles/vrml.dir/wrl.cpp.o -o vrml 

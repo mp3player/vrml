@@ -1,9 +1,17 @@
 #include <iostream>
-#include "wrl.h"
+#include <opencv2/core.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/imgproc.hpp>
+#include "parser/wrl.h"
+
+// uv map
 
 int main(){
-    WRL::Parser::parse("wrl/face.wrl");
-    // int a, b = 10;
+    Scene * scene = WRL::Parser::parse("subject020.wrl");
+    // Scene * scene = WRL::Parser::parse("wrl/2017141061049.wrl");
+    // Scene * scene = WRL::Parser::parse("wrl/face.wrl");
+    // WRL::Parser::store( "face1.txt" , scene );
 
-    // std::cout << (int)'\0' << std::endl;
+    // delete scene;
+    
 }
